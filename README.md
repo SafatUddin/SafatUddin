@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safatuddin&label=Profile%20views&color=0e75b6&style=flat" alt="safatuddin" /> </p>
 
-- 🌱 I’m currently learning **C, C++, Python & Java**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **C, C++, Python & Java**
+- 💬 Ask me about **Python & Java**
 
 - 📫 How to reach me **akmsafat@gmail.com**
 
