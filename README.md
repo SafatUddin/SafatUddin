@@ -5,7 +5,7 @@
 
 ### 📚 My Public Repositories
 
-<!-- Featured repositories - update this list to showcase different projects -->
+<!-- Featured repositories - To update: change repo names in URLs below. Keep username as "SafatUddin" -->
 
 <a href="https://github.com/SafatUddin/SafatUddin">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafatUddin&repo=SafatUddin&theme=dark" width="400" alt="SafatUddin"/>
