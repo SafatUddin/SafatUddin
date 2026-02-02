@@ -1,6 +1,39 @@
 <h1 align="center">Hi 👋, I'm Safat Uddin</h1>
 <h3 align="center">A student of North South University in CSE from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<div align="right" width="400">
+
+### 📚 My Public Repositories
+
+<a href="https://github.com/SafatUddin/SafatUddin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafatUddin&repo=SafatUddin&theme=dark" width="400" alt="SafatUddin"/>
+</a>
+
+<a href="https://github.com/SafatUddin/Cafe-Order-Management-Software">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafatUddin&repo=Cafe-Order-Management-Software&theme=dark" width="400" alt="Cafe-Order-Management-Software"/>
+</a>
+
+<a href="https://github.com/SafatUddin/University-Management-System-using-Java-Swing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafatUddin&repo=University-Management-System-using-Java-Swing&theme=dark" width="400" alt="University-Management-System-using-Java-Swing"/>
+</a>
+
+<a href="https://github.com/SafatUddin/Library-Management-System-Using-Django">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafatUddin&repo=Library-Management-System-Using-Django&theme=dark" width="400" alt="Library-Management-System-Using-Django"/>
+</a>
+
+<a href="https://github.com/SafatUddin/Personal-Diary-Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafatUddin&repo=Personal-Diary-Management&theme=dark" width="400" alt="Personal-Diary-Management"/>
+</a>
+
+<a href="https://github.com/SafatUddin/NSU-Data-Science-Lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafatUddin&repo=NSU-Data-Science-Lab&theme=dark" width="400" alt="NSU-Data-Science-Lab"/>
+</a>
+
+<a href="https://github.com/SafatUddin?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+</a>
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safatuddin&label=Profile%20views&color=0e75b6&style=flat" alt="safatuddin" /> </p>
 
