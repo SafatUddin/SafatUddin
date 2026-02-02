@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Safat Uddin</h1>
 <h3 align="center">A student of North South University in CSE from Bangladesh</h3>
 
-<div align="right" width="400">
+<div align="right" style="width: 400px">
 
 ### 📚 My Public Repositories
+
+<!-- Featured repositories - update this list to showcase different projects -->
 
 <a href="https://github.com/SafatUddin/SafatUddin">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafatUddin&repo=SafatUddin&theme=dark" width="400" alt="SafatUddin"/>
