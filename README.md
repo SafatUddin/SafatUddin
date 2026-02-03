@@ -22,7 +22,7 @@ I enjoy working with data-driven systems, building software solutions, and explo
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
 ### 🔹 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
