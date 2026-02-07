@@ -10,19 +10,13 @@
 
 🎓 **CSE Student** at **North South University**  
 
-💡 **Interests:**  
-• Data Analytics  
-• Data Science  
-• Data Engineering  
-• Machine Learning  
-• Database Management  
-• Software Development  
+💡 **Interests:**  • Data Analytics • Data Science  • Data Engineering  • Machine Learning  • Database Management  • Software Development  
 
 I enjoy working with data-driven systems, building software solutions, and exploring how machine learning can solve real-world problems.
 
 ---
 
-## 🛠 Skills
+## 🛠 Rech Stack
 
 ### 🔹 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
