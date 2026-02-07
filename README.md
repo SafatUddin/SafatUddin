@@ -16,7 +16,7 @@ I enjoy working with data-driven systems, building software solutions, and explo
 
 ---
 
-## 🛠 Rech Stack
+## 🛠 Tech Stack
 
 ### 🔹 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
