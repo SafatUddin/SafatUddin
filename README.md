@@ -89,7 +89,6 @@ I enjoy working with data-driven systems, building software solutions, and explo
 
 ## 🤝 Let's Connect!
 
-📧 **Email:** akmsafat@gmail.com  
-📞 **Phone:** +8801775535637  
-🔗 **LinkedIn:** [linkedin.com/in/SafatUddin](https://linkedin.com/in/SafatUddin)  
+📧 **Email:** akmsafat@gmail.com
+🔗 **LinkedIn:** [linkedin.com/in/safat-uddin-547a68423](https://www.linkedin.com/in/safat-uddin-547a68423)  
 💻 **GitHub:** [github.com/SafatUddin](https://github.com/SafatUddin)
